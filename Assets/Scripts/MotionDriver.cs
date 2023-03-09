@@ -16,6 +16,7 @@ public class MotionDriver : MonoBehaviour
 
     void SetCameraToHero()
     {
+        
         if (this.tag == "Hero")
         {
             mainCamera = GameObject.Find("Main Camera");

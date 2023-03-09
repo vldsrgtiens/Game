@@ -1,1 +1,7 @@
 ﻿/Library/
+/Logs/
+/Packages/
+/Temp/
+/.vscode/
+/ProjectSettings/
+/UserSettings/
