@@ -19,9 +19,8 @@ public class MotionDriver : MonoBehaviour
         
         if (this.tag == "Hero")
         {
-            mainCamera = GameObject.Find("Main Camera");
-            
-            
+            mainCamera = GameObject.Find("Ma
+
             foreach (Transform child in transform)
             {
                 if (child.gameObject.tag == "eye")
